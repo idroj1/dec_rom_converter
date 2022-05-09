@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/bin/Debug/net5.0/d_r_prog.deps.json
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/bin/Debug/net5.0/d_r_prog.dll
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/bin/Debug/net5.0/ref/d_r_prog.dll
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/bin/Debug/net5.0/d_r_prog.pdb
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.AssemblyInfo.cs
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.dll
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/ref/d_r_prog.dll
+/Users/jordi/Desktop/dec_rom_converter/d_r_prog/obj/Debug/net5.0/d_r_prog.pdb
